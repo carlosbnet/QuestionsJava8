@@ -10,8 +10,7 @@ See you later!
 
 So far I have been practicing on:
 
-- **Strings**
-- **Character**
+- [**Strings** and **Char**](https://github.com/carlosbnet/QuestionsJava8/tree/main/Char%20and%20Strings/Book%20how%20to%20program%20java%208)
 - **Arrays**
 
 

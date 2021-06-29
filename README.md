@@ -1,6 +1,6 @@
 ## Hello Friend!
 
-![large](/home/carlos/Área de Trabalho/large.png)
+![](/media/carlos/Workspace/GIT/QuestionsJava8/images/large.png)
 
 
 

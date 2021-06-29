@@ -5,4 +5,7 @@ See you later!
 
 So far I have been practicing on:
 
-###Strings
+Strings
+Character
+Arrays
+
